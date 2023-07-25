@@ -1,6 +1,6 @@
 # Cars Shop
 
-![Cars Shop Logo](path/to/logo.png) <!-- If you have a logo, replace "path/to/logo.png" with the actual path -->
+![Cars Shop Logo](/logo.png) <!-- If you have a logo, replace "path/to/logo.png" with the actual path -->
 
 Welcome to Cars Shop! This is a web application built with React.js, Next.js, and Tailwind CSS that allows users to browse and shop for cars.
 
@@ -38,13 +38,13 @@ To get started with the project, follow the instructions below.
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/cars-shop.git
+git clone https://github.com/oussama-akhatar/car-shop-next_ts.git
 ```
 
 2. Change directory to the project folder:
 
 ```bash
-cd cars-shop
+cd car-shop-next_ts
 ```
 
 3. Install the required dependencies:
