@@ -44,7 +44,7 @@ git clone https://github.com/oussama-akhatar/car-shop-next_ts.git
 2. Change directory to the project folder:
 
 ```bash
-cd cars-shop
+cd car-shop-next_ts
 ```
 
 3. Install the required dependencies:
