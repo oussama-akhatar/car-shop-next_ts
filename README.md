@@ -67,13 +67,11 @@ The application will be available at **`http://localhost:3000`**.
 Contributions are welcome! If you find any bugs or want to suggest enhancements, please create an issue or submit a pull request.
 
 1. Fork the repository.
-2. Create a new branch: **git checkout -b your-feature-branch**.
-3. Make your changes and commit them: **git commit -m 'Add some feature'**.
-4. Push the changes to your branch: **git push origin your-feature-branch**.
+2. Create a new branch: **`git checkout -b your-feature-branch`**.
+3. Make your changes and commit them: **`git commit -m 'Add some feature`**.
+4. Push the changes to your branch: **`git push origin your-feature-branch`**.
 5. Submit a pull request.
 
 ## License
 
-## License
-
-[License Name] AKHATAR Oussama
+This project is licensed under the [MIT License](https://oussama-akhatar.vercel.app).
