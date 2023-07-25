@@ -39,3 +39,13 @@ To get started with the project, follow the instructions below.
 
 ```bash
 git clone https://github.com/your-username/cars-shop.git
+
+2. Change directory to the project folder:
+
+```bash
+cd cars-shop
+
+3. Install the required dependencies:
+
+```bash
+npm install
