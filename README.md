@@ -74,4 +74,4 @@ Contributions are welcome! If you find any bugs or want to suggest enhancements,
 
 ## License
 
-This project is licensed under the [MIT License](https://oussama-akhatar.vercel.app).
+This project is licensed under [AKHATAR Oussama](https://oussama-akhatar.vercel.app).
