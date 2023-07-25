@@ -38,7 +38,7 @@ To get started with the project, follow the instructions below.
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/cars-shop.git
+git clone https://github.com/oussama-akhatar/car-shop-next_ts.git
 ```
 
 2. Change directory to the project folder:
