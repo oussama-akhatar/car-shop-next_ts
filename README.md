@@ -1,6 +1,6 @@
 # Cars Shop
 
-![Cars Shop Logo](path/to/logo.png) <!-- If you have a logo, replace "path/to/logo.png" with the actual path -->
+![Cars Shop Logo](/logo.png) <!-- If you have a logo, replace "path/to/logo.png" with the actual path -->
 
 Welcome to Cars Shop! This is a web application built with React.js, Next.js, and Tailwind CSS that allows users to browse and shop for cars.
 
